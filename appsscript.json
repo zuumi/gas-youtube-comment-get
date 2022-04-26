@@ -1,0 +1,14 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "Soracom",
+        "version": "9",
+        "libraryId": "1cq3jXKcA0mT3L-U3YQY3BgAIWzB2D_Fg-UAqwnPjZ0hZysAgEJtQ-h4J"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
